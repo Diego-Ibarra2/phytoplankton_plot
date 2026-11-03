@@ -1,3 +1,6 @@
+setwd("C:/Users/ameli/OneDrive/Desktop/Lab 9/phytoplankton_plot")
+
+
 # Import library
 library(ggplot2)
 
